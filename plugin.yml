@@ -1,0 +1,11 @@
+main: me.MadEnchants.MadCuzDev.MadEnchants
+name: MadEnchants
+version: 1.0
+author: MadCuzDev
+commands:
+  cenchant:
+    description: Custom enchant things
+    usage: /cenchant (enchant)
+  cereset:
+    description: Reset Custom Enchants on the item
+    usage: /cereset
